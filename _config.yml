@@ -1,0 +1,79 @@
+---
+booktitle: Proceedings of the 4th Machine Learning for Healthcare Conference
+volume: 106
+shortname: MLHC
+year: '2019'
+start: 2019-08-09
+end: 2019-08-10
+published: 2019-10-28
+url: http://proceedings.mlr.press
+conference_number: '4'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: MLHC-2019
+month: 0
+cycles: false
+bibtex_editor: Doshi-Velez, Finale and Fackler, Jim and Jung, Ken and Kale, David
+  and Ranganath, Rajesh and Wallace, Byron and Wiens, Jenna
+editor:
+- given: Finale
+  family: Doshi-Velez
+- given: Jim
+  family: Fackler
+- given: Ken
+  family: Jung
+- given: David
+  family: Kale
+- given: Rajesh
+  family: Ranganath
+- given: Byron
+  family: Wallace
+- given: Jenna
+  family: Wiens
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 4th Machine Learning for Healthcare Conference
+    Held in Ann Arbor, Michigan on 09-10 August 2019
+
+  Published as Volume 106 by the Proceedings of Machine Learning Research on 28 October 2019.
+
+  Volume Edited by:
+    Finale Doshi-Velez
+    Jim Fackler
+    Ken Jung
+    David Kale
+    Rajesh Ranganath
+    Byron Wallace
+    Jenna Wiens
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: '09--10 Aug'
+baseurl: "/v106"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v106
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Machine Learning for Healthcare Conference
+  url: 
+  location: Ann Arbor, Michigan
+  dates:
+  - 2019-08-09
+  - 2019-08-10
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/neil/mlresearch/v106/mlhc19.bib
